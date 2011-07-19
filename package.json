@@ -1,0 +1,9 @@
+{
+	"name": "angel",
+	"description": "A node.js server monitor",
+	"version": "0.0.1",
+	"repository": {},
+	"author": "Gavin Uhma <gavinmail@gmail.com> (http://gavinuhma.com)",
+	"main": "index",
+	"engines": { "node": "*" }
+}
